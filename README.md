@@ -115,6 +115,6 @@ The endpoint returns a JSON object containing recommended courses.
 4. Cosine similarity is calculated between user interests and course content.
 5. The most relevant courses are returned as JSON.
 
-## License
+
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
